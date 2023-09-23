@@ -1,0 +1,21 @@
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    background-color: gold;
+   }
+   .flex1{
+    width:200px;
+    height: 200px;
+    margin: 10px;
+    align-items: center;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+   }

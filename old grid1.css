@@ -1,0 +1,54 @@
+.grid{
+    display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto;
+  grid-template-rows: 100px 300px;
+  grid-gap: 10px;
+   background-color: #2196F3;
+   padding: 10px;         
+   height: 300px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+   padding: 10px;
+
+    
+    }
+
+    .a1{
+        background-color: green;
+        height: 300px;
+       
+    }
+    .a2{
+        background-color: yellow;
+        height: 300px;
+    }
+    .a3{
+        background-color: rgb(206, 12, 141);
+        height: 300px;
+    }
+    .a4{
+        background-color: gray;
+        height: 300px;
+        
+    }
+    .a5{
+        background-color: blue;
+        height: 300px;
+    }
+    .a6{
+        background-color: rgb(79, 200, 204);
+        height: 300px;
+    }
+    .a7{
+        background-color: rgb(115, 149, 14);
+        height: 300px;
+    }
+    .a8{
+        background-color: red;
+        height: 300px;
+    }
+    .a9{
+        background-color: rgb(152, 7, 5);
+        height: 300px;
+    }
